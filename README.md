@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🌱 Sustentabilidade • 🤖 Inteligência Artificial • 🏗️ Inovação
+ • 🤖 Inteligência Artificial • 🏗️ Inovação
 </p>
 
 ---
