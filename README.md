@@ -208,5 +208,5 @@ O SmartBuild AI possui finalidade acadêmica e experimental. As propostas gerada
   <br/>
   Construindo ideias com inteligência artificial.
   <br/><br/>
-  🌱 Sustentabilidade • 🏗️ Tecnologia • 🤖 Inovação
+  • 🏗️ Tecnologia • 🤖 Inovação
 </p>
